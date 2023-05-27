@@ -4,6 +4,6 @@ Arduino DnD dice roller
 - 7-segment shield and 3 buttons are assumed
 
 ## Buttons
-- Left: Changes the dice type (d6 up to d20)
+- Left: Rolls the dice when released 
 - Middle: Changes the number of dice to be rolled
-- Right: Rolls the dice when released
+- Right: Changes the dice type (d6 up to d20)
